@@ -25,10 +25,10 @@ Możesz zobaczyć działającą wersję projektu pod adresem: [LINK DO DEMO](htt
 
 Aby zainstalować projekt na swoim komputerze, wykonaj następujące kroki:
 
-1. Sklonuj projekt na swoim komputerze
+1. Sklonuj projekt na swoim komputerze:
 git clone https://github.com/Blizzeq/react-3d-animation.git
 2. Wejdź do katalogu projektu
-3. Zainstaluj zależności
+3. Zainstaluj zależności:
 npm install
-4. Uruchom projekt
+4. Uruchom projekt:
 npm run dev
