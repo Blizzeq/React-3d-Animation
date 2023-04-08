@@ -6,7 +6,7 @@ Ten projekt jest kopią strony głównej Apple zawierającą w pełni funkcjonal
 
 ## Demo
 
-Możesz zobaczyć działającą wersję projektu pod adresem: [LINK DO DEMO](https://apple-3d-react.netlify.app/)
+Możesz zobaczyć działającą wersję projektu pod adresem: [DEMO APLIKACJI](https://apple-3d-react.netlify.app/)
 
 ## Funkcjonalności
 
