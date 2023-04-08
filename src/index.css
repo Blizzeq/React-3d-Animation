@@ -85,7 +85,7 @@ body::-webkit-scrollbar-thumb {
   padding: 50px 0 400px 0;
   height: 100vh;
   box-sizing: border-box;
-  /*opacity: 0;*/
+  opacity: 0;
   position: relative;
 }
 
@@ -322,14 +322,14 @@ nav .link-styled {
   margin: 0 auto;
 }
 
-.sound-section .content {
+.sound-section-content {
   max-width: 490px;
   width: 100%;
   padding: 200px 0;
   display: flex;
   align-items: center;
   flex-direction: column;
-  /*opacity: 0;*/
+  opacity: 0;
 }
 
 .sound-section .title {
